@@ -1,0 +1,1 @@
+https://hub.docker.com/repository/docker/glubuchikar/custom-nginx/general
