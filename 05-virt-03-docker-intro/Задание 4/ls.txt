@@ -1,0 +1,24 @@
+total 60K
+drwxr-xr-x   1 root root 4.0K May 12 20:40 .
+drwxr-xr-x   1 root root 4.0K May 12 20:40 ..
+-rwxr-xr-x   1 root root    0 May 12 20:40 .dockerenv
+lrwxrwxrwx   1 root root    7 Nov  3  2020 bin -> usr/bin
+drwxrwxr-x   2 1000 1000 4.0K May 12 20:42 data
+drwxr-xr-x   5 root root  340 May 12 20:40 dev
+drwxr-xr-x   1 root root 4.0K May 12 20:40 etc
+drwxr-xr-x   2 root root 4.0K Nov  3  2020 home
+lrwxrwxrwx   1 root root    7 Nov  3  2020 lib -> usr/lib
+lrwxrwxrwx   1 root root    9 Nov  3  2020 lib64 -> usr/lib64
+drwx------   2 root root 4.0K Sep 15  2021 lost+found
+drwxr-xr-x   2 root root 4.0K Nov  3  2020 media
+drwxr-xr-x   2 root root 4.0K Nov  3  2020 mnt
+drwxr-xr-x   2 root root 4.0K Nov  3  2020 opt
+dr-xr-xr-x 571 root root    0 May 12 20:40 proc
+dr-xr-x---   2 root root 4.0K Sep 15  2021 root
+drwxr-xr-x  11 root root 4.0K Sep 15  2021 run
+lrwxrwxrwx   1 root root    8 Nov  3  2020 sbin -> usr/sbin
+drwxr-xr-x   2 root root 4.0K Nov  3  2020 srv
+dr-xr-xr-x  13 root root    0 May 12 20:40 sys
+drwxrwxrwt   7 root root 4.0K Sep 15  2021 tmp
+drwxr-xr-x  12 root root 4.0K Sep 15  2021 usr
+drwxr-xr-x  20 root root 4.0K Sep 15  2021 var
