@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-virt-03-docker-intro/README.md",
+                "file": "05-virt-03-docker-intro/Задание 3/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05-virt-03-docker-intro/README.md",
+                "file": "05-virt-03-docker-intro/Задание 3/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05-virt-03-docker-intro/README.md",
+                "file": "05-virt-03-docker-intro/Задание 3/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05-virt-03-docker-intro/README.md",
+                "file": "05-virt-03-docker-intro/Задание 3/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,8 +170,9 @@
   },
   "active": "1e1699feecee74f2",
   "lastOpenFiles": [
-    "05-virt-03-docker-intro/Задание 1/README.md",
+    "05-virt-03-docker-intro/Задание 5/compose.yaml",
     "05-virt-03-docker-intro/README.md",
+    "05-virt-03-docker-intro/Задание 1/README.md",
     "README.md"
   ]
 }
