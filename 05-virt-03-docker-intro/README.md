@@ -2,6 +2,5 @@
 https://hub.docker.com/repository/docker/glubuchikar/custom-nginx/general
 
 ## Задание 2
-![[Снимок экрана_20250512_213711.png]]
-
+<iframe src="https://github.com/GlubuchikAr/shvirtd-19/blob/main/05-virt-03-docker-intro/Задание%202/Снимок%20экрана_20250512_213711.png"></iframe>
 
