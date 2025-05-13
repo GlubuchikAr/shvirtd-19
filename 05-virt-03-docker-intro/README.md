@@ -22,4 +22,4 @@ Docker запросы на 127.0.0.1:8080 перенаправляет в кон
 ![](https://github.com/GlubuchikAr/shvirtd-19/blob/main/05-virt-03-docker-intro/Задание%205/Снимок%20экрана_20250513_222254.png)
 ![](https://github.com/GlubuchikAr/shvirtd-19/blob/main/05-virt-03-docker-intro/Задание%205/Снимок%20экрана_20250513_222812.png)
 ![](https://github.com/GlubuchikAr/shvirtd-19/blob/main/05-virt-03-docker-intro/Задание%205/Снимок%20экрана_20250513_222837.png)
-[](https://github.com/GlubuchikAr/shvirtd-19/blob/main/05-virt-03-docker-intro/Задание%205/compose.yaml)
+[compose.yaml](https://github.com/GlubuchikAr/shvirtd-19/blob/main/05-virt-03-docker-intro/Задание%205/compose.yaml)
